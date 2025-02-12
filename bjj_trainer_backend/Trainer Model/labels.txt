@@ -1,0 +1,23 @@
+10: Applies Americana
+11: Applies Armbar
+12: Applies Baseball Bat Choke
+13: Applies Triangle
+14: In Grips
+15: In Side Control (SC)
+16: In Mount
+17: In Back Control
+18: Defends Kimura
+19: Defends Americana
+2: No Grips
+20: Defends Armbar
+21: Defends Baseball Bat Choke
+22: Defends Triangle
+3: Has Grips
+4: Has De La Riva (DLR)
+5: Has Guard
+6: Has Side Control (SC)
+7: Has Mount
+8: Has Back Control
+9: Applies Kimura
+Loser
+Winner
